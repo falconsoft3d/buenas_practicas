@@ -11,4 +11,4 @@
 8- Las pruebas que el un módulo funciona no se hacen local sino en Demo.
 9- Todos los días es necesario revisar los ciclos de venta/compra para ver que ningun cambio que se agrego afecte a Odoo.
 10- Al terminar todos los dias hacer push e informar en el grupo los avances del proyecto.
-```linux
+```
